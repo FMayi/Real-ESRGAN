@@ -138,3 +138,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/
+
+# Allow Git settings so PyCharm recognizes the repository
+!.idea/vcs.xml
+
+# Allow Python interpreter settings (useful if using the same interpreter on different machines)
+!.idea/misc.xml
+
+# Allow code style settings to keep formatting consistent across devices
+!.idea/codeStyles/
